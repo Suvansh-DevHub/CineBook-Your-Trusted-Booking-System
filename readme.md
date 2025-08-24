@@ -43,16 +43,10 @@ CineBook/
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla JS)
+- **Frontend:** HTML5, CSS3, JavaScript 
 - **Design:** Responsive UI with animations
 - **Storage:** LocalStorage for booking persistence
 
----
-
-## 📸 Screenshots
-*(Add screenshots of homepage, booking page, and tickets here)*
-
----
 
 ## 📌 Installation & Usage
 1. Clone this repo:
