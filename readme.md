@@ -49,7 +49,7 @@ CineBook/
 
 
 ## Deployment Link
-[CineBook](cinebooklive.netlify.app/)
+[CineBook](https://cinebooklive.netlify.app/)
 
 ## 📌 Installation & Usage
 1. Clone this repo:
