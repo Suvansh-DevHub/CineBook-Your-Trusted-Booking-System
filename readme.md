@@ -79,5 +79,10 @@ Developed with ❤️ by **Suvansh**
 ---
 
 ## 📜 License
-This project is licensed under the MIT License - free to use and modify.
+This project is licensed under the MIT License 
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out.
 
