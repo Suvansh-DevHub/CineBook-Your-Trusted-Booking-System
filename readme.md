@@ -48,6 +48,9 @@ CineBook/
 - **Storage:** LocalStorage for booking persistence
 
 
+## Deployment Link
+[CineBook](cinebooklive.netlify.app/)
+
 ## 📌 Installation & Usage
 1. Clone this repo:
    ```bash
